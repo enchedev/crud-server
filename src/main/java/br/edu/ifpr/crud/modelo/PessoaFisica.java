@@ -1,10 +1,10 @@
 package br.edu.ifpr.crud.modelo;
 
-import lombok.*;
+import lombok.EqualsAndHashCode;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.ToString;
 
-import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.time.Month;
 import java.time.ZonedDateTime;
 
 @Getter

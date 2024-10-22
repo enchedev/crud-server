@@ -1,6 +1,6 @@
 package br.edu.ifpr.crud.modelo;
 
-import br.edu.ifpr.persistence.interfaces.Identifiable;
+import br.edu.ifpr.uruy.tags.Identifiable;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.*;
 

@@ -2,7 +2,7 @@ package br.edu.ifpr.crud.controladores;
 
 import br.edu.ifpr.crud.modelo.PessoaFisica;
 import br.edu.ifpr.crud.repositorios.PessoaFisicaRepositorio;
-import br.edu.ifpr.web.HttpRequest;
+import br.edu.ifpr.yuru.HttpRequest;
 
 import java.util.List;
 import java.util.UUID;

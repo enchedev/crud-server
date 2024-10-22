@@ -4,8 +4,8 @@ import br.edu.ifpr.crud.controladores.PessoaFisicaControlador;
 import br.edu.ifpr.crud.controladores.PessoaJuridicaControlador;
 import br.edu.ifpr.crud.modelo.PessoaFisica;
 import br.edu.ifpr.crud.modelo.PessoaJuridica;
-import br.edu.ifpr.web.HttpRouter;
-import br.edu.ifpr.web.enums.HttpMethod;
+import br.edu.ifpr.yuru.HttpRouter;
+import br.edu.ifpr.yuru.enums.HttpMethod;
 
 public class Main {
 

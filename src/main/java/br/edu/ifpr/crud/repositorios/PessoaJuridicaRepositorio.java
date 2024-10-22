@@ -2,8 +2,8 @@ package br.edu.ifpr.crud.repositorios;
 
 import br.edu.ifpr.crud.modelo.PessoaJuridica;
 import br.edu.ifpr.crud.modelo.persistencia.PessoaJuridicaPersistencia;
-import br.edu.ifpr.persistence.core.Query;
-import br.edu.ifpr.web.core.QueryParameter;
+import br.edu.ifpr.uruy.core.Query;
+import br.edu.ifpr.yuru.core.QueryParameter;
 
 import java.util.List;
 import java.util.Map;
