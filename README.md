@@ -10,5 +10,5 @@ Antes de mais nada, você precisará instalar locamente as seguintes dependênci
 
 Tendo compilado e instalado as dependências locais, execute os seguintes comandos:
 
->mvn package
+>mvn package\
 >java -jar ./target/crud-1.0-SNAPSHOT.jar
